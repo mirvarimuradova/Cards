@@ -35,6 +35,7 @@ body{
     padding: 0px;
 }
 .card-prices{
+   
     width: 200px;
     margin:  auto ;
     background-color: #fff;
@@ -43,8 +44,11 @@ body{
     text-align: center;
     color:#5D85BE;
 }
-.card-price-header{
+.card1 ul{
     margin-top: -15px;
+}
+.card-price-header{
+   
     padding-top: 20px;
     font-weight: 600;
 }
